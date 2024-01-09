@@ -26,7 +26,7 @@ const Logo = () => {
             iStream
           </p>
           <p className="text-sm text-muted-foreground">
-            🕹️ Let&apos;s Play 
+            😎 Creator Dashboard
           </p>
         </div>
       </div>

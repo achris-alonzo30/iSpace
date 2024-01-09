@@ -15,8 +15,8 @@ const Logo = () => {
         <Image src="/i-space-logo.svg" alt="i-space" width="80" height="80" />
       </div>
       <div className={cn("flex flex-col items-center", font.className)}>
-        <p className="text-xl font-semibold">iSpace</p>
-        <p className="text-sm text-muted-foreground">🚀Space Jam Time🚀</p>
+        <p className="text-xl font-semibold">iStream</p>
+        <p className="text-sm text-muted-foreground">Stream, Share, Enjoy</p>
       </div>
     </div>
     

@@ -6,7 +6,7 @@ import { SearchIcon, X } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 
-const Search = () => {
+export const Search = () => {
   const router = useRouter();
   const [value, setValue] = useState("");
 
@@ -59,4 +59,3 @@ const Search = () => {
   );
 };
 
-export default Search;
